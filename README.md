@@ -1,8 +1,12 @@
 # TicketFlow AI — IT Support
 
+🚀 **Live demo:** [Try TicketFlow AI here](https://ticketflow-ai.streamlit.app/)
+
 TicketFlow AI is an internal IT support system built with **Python, Streamlit, and SQLite**. It turns employee messages into trackable tickets with a category, priority, status history, and a safe draft reply.
 
 This is a **production-oriented prototype**, not a production-ready system for sensitive data. Strong authentication, secure deployment, and monitoring are still needed.
+
+[![image.png](https://i.postimg.cc/8P9qbQZJ/image.png)](https://postimg.cc/4mvLJMks)
 
 ## Core idea
 
